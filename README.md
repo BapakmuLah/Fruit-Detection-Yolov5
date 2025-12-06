@@ -31,9 +31,9 @@ Expected YOLO-style layout:
 
 ## 4) Frameworks & Libraries Used
 - **Framework:** YOLOv5 (Ultralytics)
-- **Language:** Python 3.x
-- **Major libraries:** PyTorch, OpenCV, NumPy, pandas, matplotlib, scikit-learn (for metrics), xml/ET (for annotation conversion)
-- **Environment:** Google Colab (recommended) or any CUDA-enabled Linux machine with NVIDIA GPU
+- **Language:** Python 3.12
+- **Major libraries:** PyTorch, OpenCV, NumPy, pandas, matplotlib, scikit-learn
+- **Environment:** T4 GPU
 
 ## 6) Project Highlights
 - End-to-end reproducible pipeline: annotation conversion → training → evaluation → inference.
@@ -68,4 +68,5 @@ Provide a per-class AP table here (fill with your numbers):
 <img src="https://github.com/user-attachments/assets/112e91f3-def1-4bc1-826b-4c89700a811b" width="350" height="300" />
 <img src="https://github.com/user-attachments/assets/14820462-2ecb-49b9-aa67-f80c0a5f54aa" width="350" height="300" />
 <img src="https://github.com/user-attachments/assets/ed524a6e-afec-4478-b60e-6bfa69c64f42" width="350" height="300" />
+
 
