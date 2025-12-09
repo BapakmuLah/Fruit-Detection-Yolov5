@@ -54,7 +54,7 @@ Expected YOLO-style layout:
 | F1-score     | **0.846** |
 | Best epoch   | **48** |
 
-Provide a per-class AP table here (fill with your numbers):
+Provide a per-class AP table here:
 
 | Class   | Images | Instances | Precision (P) | Recall (R) | mAP@0.5 | mAP@0.5–0.95 |
 |--------:|-------:|----------:|--------------:|-----------:|--------:|-------------:|
@@ -68,5 +68,6 @@ Provide a per-class AP table here (fill with your numbers):
 <img src="https://github.com/user-attachments/assets/112e91f3-def1-4bc1-826b-4c89700a811b" width="350" height="300" />
 <img src="https://github.com/user-attachments/assets/14820462-2ecb-49b9-aa67-f80c0a5f54aa" width="350" height="300" />
 <img src="https://github.com/user-attachments/assets/ed524a6e-afec-4478-b60e-6bfa69c64f42" width="350" height="300" />
+
 
 
